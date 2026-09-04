@@ -1,0 +1,56 @@
+name: Auto YouTube Cartoon Generator (3 Times a Day)
+
+on:
+  schedule:
+    # ⏰ UTC Timing. Indian Time is UTC + 5:30
+    # 02:30 UTC = 08:00 AM IST
+    # 08:30 UTC = 02:00 PM IST
+    # 13:30 UTC = 07:00 PM IST
+    - cron: '30 2,8,13 * * *'
+  workflow_dispatch:  # मैन्युअली रन करने के लिए
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150 
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install System Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+        
+    - name: Install Python Libraries
+      run: |
+        pip install --upgrade pip
+        pip install pygame moviepy==1.0.3 edge-tts numpy opencv-python-headless google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+    - name: Load YouTube Tokens
+      env:
+        TOKEN_1: ${{ secrets.TOKEN_1 }}
+      run: |
+        mkdir -p tokens
+        if [ ! -z "$TOKEN_1" ]; then echo "$TOKEN_1" | base64 -d > tokens/token1.json; fi
+        echo "✅ YouTube Token Load हो गया!"
+
+    - name: Run Cartoon Video Bot
+      run: |
+        python bot.py
+
+    - name: Commit updated jokes.txt
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add jokes.txt
+        git commit -m "🤖 जोक यूज़ किया गया और Text File अपडेट की गई" || echo "No changes to commit"
+        git push
