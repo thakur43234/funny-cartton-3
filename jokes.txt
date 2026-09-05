@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तूने मोबाइल क्यों बेच दिया?
-Neelu (shock, zoom): पढ़ाई करने के लिए!
-Pinku (funny, shake): मोबाइल बेचकर पढ़ाई करेगा?
-Neelu (slap, zoom_shake): मोबाइल में ही तो पढ़ाई करता था, अब पढ़ाई भी बेच दूँगा!
-=====
 Pinku (normal): Neelu भाई, तू रोज सुबह दौड़ता क्यों है?
 Neelu (happy, zoom): फिट रहने के लिए!
 Pinku (funny, shake): कितनी दूर दौड़ता है?
