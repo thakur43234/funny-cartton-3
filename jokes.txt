@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, नौकरी का क्या हुआ?
-Neelu (shock, zoom): नौकरी ढूँढ रहा हूँ!
-Pinku (funny, shake): मिली नहीं?
-Neelu (slap, zoom_shake): मिली थी, लेकिन सुबह जल्दी उठना पड़ता था!
-=====
 Pinku (normal): अरे Neelu, तूने मोबाइल क्यों बेच दिया?
 Neelu (shock, zoom): पढ़ाई करने के लिए!
 Pinku (funny, shake): मोबाइल बेचकर पढ़ाई करेगा?
