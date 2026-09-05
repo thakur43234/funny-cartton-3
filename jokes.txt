@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu भाई, आज स्कूल क्यों नहीं गए?
-Neelu (shock, zoom): मास्टर जी ने होमवर्क माँग लिया था!
-Pinku (funny, shake): तो?
-Neelu (slap, zoom_shake): होमवर्क नहीं था, इसलिए स्कूल ही छोड़ दिया!
-=====
 Pinku (normal): अरे Neelu, सुना है तू जिम जा रहा है?
 Neelu (happy, zoom): हाँ भाई, बॉडी बनाऊँगा!
 Pinku (funny, shake): फिर डंबल कहाँ है?
