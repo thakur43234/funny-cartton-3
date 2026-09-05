@@ -1,566 +1,467 @@
-Pinku (normal): अरे Neelu भाई, सुना है तुमने पढ़ाई छोड़ दी?
-Neelu (shock, zoom): हाँ यार! अब मैं बड़ा आदमी बनूँगा!
-Pinku (funny, shake): कैसे बनोगे?
-Neelu (slap, zoom_shake): अभी तरीका नहीं मिला, इसलिए पढ़ाई छोड़ दी!
-
-=====
 Pinku (normal): अरे Neelu भाई, आज स्कूल क्यों नहीं गए?
 Neelu (shock, zoom): मास्टर जी ने होमवर्क माँग लिया था!
 Pinku (funny, shake): तो?
 Neelu (slap, zoom_shake): होमवर्क नहीं था, इसलिए स्कूल ही छोड़ दिया!
-
 =====
 Pinku (normal): अरे Neelu, सुना है तू जिम जा रहा है?
 Neelu (happy, zoom): हाँ भाई, बॉडी बनाऊँगा!
 Pinku (funny, shake): फिर डंबल कहाँ है?
 Neelu (slap, zoom_shake): डंबल भारी था, इसलिए फोटो में ही बॉडी बना ली!
-
 =====
 Pinku (normal): Neelu भाई, नौकरी का क्या हुआ?
 Neelu (shock, zoom): नौकरी ढूँढ रहा हूँ!
 Pinku (funny, shake): मिली नहीं?
 Neelu (slap, zoom_shake): मिली थी, लेकिन सुबह जल्दी उठना पड़ता था!
-
 =====
 Pinku (normal): अरे Neelu, तूने मोबाइल क्यों बेच दिया?
 Neelu (shock, zoom): पढ़ाई करने के लिए!
 Pinku (funny, shake): मोबाइल बेचकर पढ़ाई करेगा?
 Neelu (slap, zoom_shake): मोबाइल में ही तो पढ़ाई करता था, अब पढ़ाई भी बेच दूँगा!
-
 =====
 Pinku (normal): Neelu भाई, तू रोज सुबह दौड़ता क्यों है?
 Neelu (happy, zoom): फिट रहने के लिए!
 Pinku (funny, shake): कितनी दूर दौड़ता है?
 Neelu (slap, zoom_shake): मम्मी के उठने से पहले बिस्तर से दरवाजे तक!
-
 =====
 Pinku (normal): अरे Neelu, तूने किताब क्यों फाड़ दी?
 Neelu (shock, zoom): उसमें सवाल बहुत कठिन थे!
 Pinku (funny, shake): फिर जवाब कैसे देगा?
 Neelu (slap, zoom_shake): सवाल ही नहीं रहेगा तो जवाब भी नहीं देना पड़ेगा!
-
 =====
 Pinku (normal): Neelu भाई, सुना है तू बिजनेस करेगा?
 Neelu (happy, zoom): हाँ भाई, बहुत बड़ा!
 Pinku (funny, shake): पैसा कितना है?
 Neelu (slap, zoom_shake): पैसा नहीं है, लेकिन बिजनेस का सपना पूरा है!
-
 =====
 Pinku (normal): अरे Neelu, परीक्षा कैसी गई?
 Neelu (shock, zoom): बहुत बढ़िया!
 Pinku (funny, shake): कितने नंबर आए?
 Neelu (slap, zoom_shake): नंबर नहीं आए, लेकिन पेपर घर वापस आ गया!
-
 =====
 Pinku (normal): Neelu भाई, तू पढ़ता कब है?
 Neelu (happy, zoom): रात को!
 Pinku (funny, shake): कितने बजे?
 Neelu (slap, zoom_shake): जब किताब खोलता हूँ, तभी नींद आ जाती है!
-
 =====
 Pinku (normal): अरे Neelu, तू डॉक्टर बनेगा?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): पढ़ाई कहाँ तक हुई?
 Neelu (slap, zoom_shake): बीमारी देखकर दवा बताने तक!
-
 =====
 Pinku (normal): Neelu भाई, तू इंजीनियर क्यों बनना चाहता है?
 Neelu (happy, zoom): बड़ी कमाई होती है!
 Pinku (funny, shake): इंजीनियरिंग आती है?
 Neelu (slap, zoom_shake): नहीं, कमाई वाली बात आती है!
-
 =====
 Pinku (normal): अरे Neelu, तूने अंग्रेजी सीख ली?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): बोलकर दिखा!
 Neelu (slap, zoom_shake): पहले तू हिंदी में समझ ले!
-
 =====
 Pinku (normal): Neelu भाई, आज इतना खुश क्यों है?
 Neelu (happy, zoom): मेरा रिजल्ट आया है!
 Pinku (funny, shake): पास हो गया?
 Neelu (slap, zoom_shake): नहीं, लेकिन इस बार पापा ने बेल्ट नहीं निकाली!
-
 =====
 Pinku (normal): अरे Neelu, तूने ट्यूशन क्यों छोड़ी?
 Neelu (shock, zoom): मास्टर जी बहुत सवाल पूछते थे!
 Pinku (funny, shake): तो पढ़ने जाते थे या चुप बैठने?
 Neelu (slap, zoom_shake): चुप बैठने गया था, वहाँ भी सवाल शुरू हो गए!
-
 =====
 Pinku (normal): Neelu भाई, तू सुबह-सुबह अखबार क्यों पढ़ता है?
 Neelu (happy, zoom): ज्ञान बढ़ाने के लिए!
 Pinku (funny, shake): क्या ज्ञान मिला?
 Neelu (slap, zoom_shake): आज दूध कितने का है, इतना तो पता चल गया!
-
 =====
 Pinku (normal): अरे Neelu, तेरे पास घड़ी है?
 Neelu (shock, zoom): हाँ!
 Pinku (funny, shake): टाइम क्या हुआ?
 Neelu (slap, zoom_shake): घड़ी है भाई, बैटरी नहीं है!
-
 =====
 Pinku (normal): Neelu भाई, तूने नया जूता क्यों खरीदा?
 Neelu (happy, zoom): दौड़ने के लिए!
 Pinku (funny, shake): दौड़ा?
 Neelu (slap, zoom_shake): नहीं, जूता नया है अभी, गंदा हो जाएगा!
-
 =====
 Pinku (normal): अरे Neelu, तू इतना मोटा कैसे हो गया?
 Neelu (shock, zoom): मेहनत से!
 Pinku (funny, shake): कैसी मेहनत?
 Neelu (slap, zoom_shake): रोज खाना देखकर प्लेट तक पहुँचना!
-
 =====
 Pinku (normal): Neelu भाई, तूने चश्मा क्यों लगाया?
 Neelu (happy, zoom): स्मार्ट दिखने के लिए!
 Pinku (funny, shake): नंबर आया है?
 Neelu (slap, zoom_shake): नहीं, लेकिन लोग समझते हैं पढ़ाकू हूँ!
-
 =====
 Pinku (normal): अरे Neelu, तू नौकरी में देर से क्यों गया?
 Neelu (shock, zoom): अलार्म नहीं बजा!
 Pinku (funny, shake): अलार्म तो नया था!
 Neelu (slap, zoom_shake): बजा था, मैं नहीं उठा!
-
 =====
 Pinku (normal): Neelu भाई, तूने कंप्यूटर क्यों खरीदा?
 Neelu (happy, zoom): ऑनलाइन काम करूँगा!
 Pinku (funny, shake): काम आता है?
 Neelu (slap, zoom_shake): कंप्यूटर चलाना आता है, काम अभी सीखूँगा!
-
 =====
 Pinku (normal): अरे Neelu, तूने खाना क्यों नहीं खाया?
 Neelu (shock, zoom): डाइट कर रहा हूँ!
 Pinku (funny, shake): सामने मिठाई क्यों है?
 Neelu (slap, zoom_shake): डाइट देखने के लिए रखी है!
-
 =====
 Pinku (normal): Neelu भाई, तू योगा क्यों कर रहा है?
 Neelu (happy, zoom): तनाव कम करने!
 Pinku (funny, shake): तनाव कम हुआ?
 Neelu (slap, zoom_shake): योगा देखकर ही बढ़ गया!
-
 =====
 Pinku (normal): अरे Neelu, तू रोज आईना क्यों देखता है?
 Neelu (happy, zoom): मोटिवेशन के लिए!
 Pinku (funny, shake): क्या मोटिवेशन मिलता है?
 Neelu (slap, zoom_shake): लगता है कोई तो मेरे जैसा सुंदर है!
-
 =====
 Pinku (normal): Neelu भाई, तूने नया फोन क्यों लिया?
 Neelu (happy, zoom): पढ़ाई के लिए!
 Pinku (funny, shake): पढ़ाई की?
 Neelu (slap, zoom_shake): नहीं, फोन की मेमोरी भर दी!
-
 =====
 Pinku (normal): अरे Neelu, तेरी बाइक कहाँ है?
 Neelu (shock, zoom): बेच दी!
 Pinku (funny, shake): क्यों?
 Neelu (slap, zoom_shake): पेट्रोल महँगा था, अब पैदल गरीब लगूँगा!
-
 =====
 Pinku (normal): Neelu भाई, तूने खाना बनाना सीखा?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): क्या बनाना आता है?
 Neelu (slap, zoom_shake): गैस चालू करना!
-
 =====
 Pinku (normal): अरे Neelu, तू इतना देर से क्यों सोता है?
 Neelu (shock, zoom): भविष्य के बारे में सोचता हूँ!
 Pinku (funny, shake): क्या सोचा?
 Neelu (slap, zoom_shake): सुबह जल्दी उठना है या नहीं!
-
 =====
 Pinku (normal): Neelu भाई, तूने गाना सीख लिया?
 Neelu (happy, zoom): हाँ!
 Pinku (funny, shake): सुनाओ!
 Neelu (slap, zoom_shake): पड़ोसी सो रहे हैं, उन्हें भी मौका दे रहा हूँ!
-
 =====
 Pinku (normal): अरे Neelu, तू क्रिकेट क्यों नहीं खेलता?
 Neelu (shock, zoom): बैट नहीं है!
 Pinku (funny, shake): गेंद तो है?
 Neelu (slap, zoom_shake): गेंद से बैट थोड़ी चलेगा!
-
 =====
 Pinku (normal): Neelu भाई, तूने अंग्रेजी की किताब क्यों छुपाई?
 Neelu (shock, zoom): ताकि कोई पढ़ने को न बोले!
 Pinku (funny, shake): तू खुद नहीं पढ़ता?
 Neelu (slap, zoom_shake): मैं किताब देखकर ही थक जाता हूँ!
-
 =====
 Pinku (normal): अरे Neelu, तूने स्कूल की फीस क्यों नहीं भरी?
 Neelu (shock, zoom): पैसे नहीं थे!
 Pinku (funny, shake): फिर स्कूल कैसे जाएगा?
 Neelu (slap, zoom_shake): फीस नहीं है तो स्कूल भी नहीं है!
-
 =====
 Pinku (normal): Neelu भाई, तूने नई घड़ी क्यों खरीदी?
 Neelu (happy, zoom): समय की कदर करने!
 Pinku (funny, shake): समय पता चलता है?
 Neelu (slap, zoom_shake): घड़ी सुंदर लगती है, टाइम तो मोबाइल बताता है!
-
 =====
 Pinku (normal): अरे Neelu, तूने कंप्यूटर क्लास क्यों छोड़ी?
 Neelu (shock, zoom): माउस पकड़ना नहीं आया!
 Pinku (funny, shake): उसमें क्या मुश्किल था?
 Neelu (slap, zoom_shake): चूहा समझकर डर गया था!
-
 =====
 Pinku (normal): Neelu भाई, तूने नया बैग क्यों खरीदा?
 Neelu (happy, zoom): किताबें रखने के लिए!
 Pinku (funny, shake): किताबें कहाँ हैं?
 Neelu (slap, zoom_shake): बैग में जगह बची रहे इसलिए घर पर रख दीं!
-
 =====
 Pinku (normal): अरे Neelu, तूने पढ़ाई की तैयारी कर ली?
 Neelu (happy, zoom): पूरी तैयारी!
 Pinku (funny, shake): क्या-क्या पढ़ा?
 Neelu (slap, zoom_shake): परीक्षा कब है, बस इतना पता कर लिया!
-
 =====
 Pinku (normal): Neelu भाई, तू नेता बनेगा?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): जनता के लिए क्या करेगा?
 Neelu (slap, zoom_shake): पहले अपनी जेब के लिए कुछ करूँगा!
-
 =====
 Pinku (normal): अरे Neelu, तूने दुकान क्यों खोली?
 Neelu (happy, zoom): पैसा कमाने!
 Pinku (funny, shake): ग्राहक कितने आए?
 Neelu (slap, zoom_shake): अभी तक तो मैं ही ग्राहक बनकर बैठा हूँ!
-
 =====
 Pinku (normal): Neelu भाई, तूने रेडियो क्यों खरीदा?
 Neelu (happy, zoom): ज्ञान के लिए!
 Pinku (funny, shake): क्या सीखा?
 Neelu (slap, zoom_shake): रेडियो बंद करने का बटन कहाँ है!
-
 =====
 Pinku (normal): अरे Neelu, तूने छाता क्यों लिया?
 Neelu (shock, zoom): बारिश होने वाली है!
 Pinku (funny, shake): आसमान तो साफ है!
 Neelu (slap, zoom_shake): इसलिए तो पहले से तैयारी है!
-
 =====
 Pinku (normal): Neelu भाई, तू इतना तेज कैसे दौड़ता है?
 Neelu (happy, zoom): रोज प्रैक्टिस करता हूँ!
 Pinku (funny, shake): कहाँ?
 Neelu (slap, zoom_shake): जब मम्मी चप्पल लेकर पीछे भागती हैं!
-
 =====
 Pinku (normal): अरे Neelu, तूने किताब पर कवर क्यों चढ़ाया?
 Neelu (happy, zoom): किताब बचाने के लिए!
 Pinku (funny, shake): पढ़ेगा कब?
 Neelu (slap, zoom_shake): पहले किताब को सुरक्षित कर लिया है!
-
 =====
 Pinku (normal): Neelu भाई, तूने नया पेन क्यों खरीदा?
 Neelu (happy, zoom): परीक्षा के लिए!
 Pinku (funny, shake): लिखेगा क्या?
 Neelu (slap, zoom_shake): पेन नया है, जवाब पुराने ही होंगे!
-
 =====
 Pinku (normal): अरे Neelu, तूने होमवर्क क्यों नहीं किया?
 Neelu (shock, zoom): कुत्ता खा गया!
 Pinku (funny, shake): तेरे पास कुत्ता ही नहीं है!
 Neelu (slap, zoom_shake): इसलिए तो पड़ोसी के कुत्ते को दोष दिया!
-
 =====
 Pinku (normal): Neelu भाई, तूने आज नहाया नहीं?
 Neelu (shock, zoom): पानी बहुत ठंडा था!
 Pinku (funny, shake): गर्म पानी था!
 Neelu (slap, zoom_shake): फिर नहाने का बहाना कैसे बनाता?
-
 =====
 Pinku (normal): अरे Neelu, तूने अपना कमरा क्यों बंद कर रखा है?
 Neelu (shock, zoom): पढ़ाई कर रहा हूँ!
 Pinku (funny, shake): अंदर से खर्राटे क्यों आ रहे हैं?
 Neelu (slap, zoom_shake): किताब खोलकर नींद की प्रैक्टिस कर रहा हूँ!
-
 =====
 Pinku (normal): Neelu भाई, तूने बाल क्यों कटवाए?
 Neelu (happy, zoom): स्मार्ट बनने!
 Pinku (funny, shake): कितना स्मार्ट बना?
 Neelu (slap, zoom_shake): नाई ने भी पहचानने से मना कर दिया!
-
 =====
 Pinku (normal): अरे Neelu, तूने नौकरी का इंटरव्यू दिया?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): क्या पूछा?
 Neelu (slap, zoom_shake): उन्होंने पूछा काम आता है, मैंने कहा घर में पूछकर बताऊँगा!
-
 =====
 Pinku (normal): Neelu भाई, तूने स्कूल में नाम क्यों कटवा लिया?
 Neelu (shock, zoom): मास्टर जी ने कहा रोज आना पड़ेगा!
 Pinku (funny, shake): तो?
 Neelu (slap, zoom_shake): रोज जाना पड़े तो पढ़ाई कैसी हुई!
-
 =====
 Pinku (normal): अरे Neelu, तूने बैंक में खाता क्यों खोला?
 Neelu (happy, zoom): पैसे बचाने!
 Pinku (funny, shake): कितने पैसे हैं?
 Neelu (slap, zoom_shake): खाता खुला है, पैसा अभी रास्ते में है!
-
 =====
 Pinku (normal): Neelu भाई, तूने नया चश्मा क्यों लिया?
 Neelu (happy, zoom): दूर की चीज देखने के लिए!
 Pinku (funny, shake): दूर क्या दिखा?
 Neelu (slap, zoom_shake): अपना भविष्य… धुंधला!
-
 =====
 Pinku (normal): अरे Neelu, तूने क्रिकेट में बैट क्यों नहीं उठाया?
 Neelu (shock, zoom): बहुत भारी था!
 Pinku (funny, shake): फिर क्या किया?
 Neelu (slap, zoom_shake): गेंद को ही बल्ला समझकर मारने लगा!
-
 =====
 Pinku (normal): Neelu भाई, तूने आज इतनी मिठाई क्यों खाई?
 Neelu (happy, zoom): खुश था!
 Pinku (funny, shake): किस बात की खुशी?
 Neelu (slap, zoom_shake): कोई वजह नहीं मिली, मिठाई खा ली!
-
 =====
 Pinku (normal): अरे Neelu, तूने अपनी फोटो क्यों नहीं खिंचवाई?
 Neelu (shock, zoom): कैमरा खराब था!
 Pinku (funny, shake): मोबाइल तो ठीक था!
 Neelu (slap, zoom_shake): मोबाइल ठीक था, चेहरा अपडेट माँग रहा था!
-
 =====
 Pinku (normal): Neelu भाई, तूने किताब उल्टी क्यों पकड़ी है?
 Neelu (shock, zoom): ज्ञान किसी भी तरफ से आ सकता है!
 Pinku (funny, shake): कुछ समझ आया?
 Neelu (slap, zoom_shake): हाँ, किताब उल्टी है!
-
 =====
 Pinku (normal): अरे Neelu, तूने अलार्म पाँच बजे का क्यों लगाया?
 Neelu (happy, zoom): सुबह उठकर पढ़ूँगा!
 Pinku (funny, shake): उठा?
 Neelu (slap, zoom_shake): अलार्म उठा था, मैं नहीं!
-
 =====
 Pinku (normal): Neelu भाई, तूने नोट्स क्यों नहीं बनाए?
 Neelu (shock, zoom): याद से पढ़ूँगा!
 Pinku (funny, shake): याद है कुछ?
 Neelu (slap, zoom_shake): नोट्स बनाने का याद है!
-
 =====
 Pinku (normal): अरे Neelu, तूने परीक्षा में खाली पेपर क्यों दिया?
 Neelu (shock, zoom): ज्ञान अंदर था!
 Pinku (funny, shake): बाहर क्यों नहीं आया?
 Neelu (slap, zoom_shake): शर्मीला ज्ञान है भाई!
-
 =====
 Pinku (normal): Neelu भाई, तूने आज इतना खर्चा क्यों किया?
 Neelu (happy, zoom): निवेश किया है!
 Pinku (funny, shake): कहाँ?
 Neelu (slap, zoom_shake): समोसे में… पेट का भविष्य सुरक्षित है!
-
 =====
 Pinku (normal): अरे Neelu, तूने पंखा क्यों बंद किया?
 Neelu (shock, zoom): बिजली बचा रहा हूँ!
 Pinku (funny, shake): गर्मी नहीं लग रही?
 Neelu (slap, zoom_shake): लग रही है, लेकिन बिल से कम डर रहा हूँ!
-
 =====
 Pinku (normal): Neelu भाई, तूने मोबाइल चार्ज पर क्यों नहीं लगाया?
 Neelu (shock, zoom): बिजली का बिल आएगा!
 Pinku (funny, shake): मोबाइल बंद हो जाएगा!
 Neelu (slap, zoom_shake): मोबाइल बंद हो जाए, बिल तो नहीं आएगा!
-
 =====
 Pinku (normal): अरे Neelu, तूने दाल में नमक क्यों नहीं डाला?
 Neelu (happy, zoom): हेल्दी खाना है!
 Pinku (funny, shake): फिर चीनी क्यों डाल दी?
 Neelu (slap, zoom_shake): हेल्दी में थोड़ा मीठा जरूरी है!
-
 =====
 Pinku (normal): Neelu भाई, तूने जूते पॉलिश क्यों नहीं किए?
 Neelu (shock, zoom): मिट्टी वाला लुक चल रहा है!
 Pinku (funny, shake): किसके यहाँ?
 Neelu (slap, zoom_shake): मेरे गाँव में, और कहाँ!
-
 =====
 Pinku (normal): अरे Neelu, तूने बाल्टी में मोबाइल क्यों रखा?
 Neelu (shock, zoom): पानी से बचाने के लिए!
 Pinku (funny, shake): बाल्टी में पानी भी है!
 Neelu (slap, zoom_shake): अब मोबाइल बचा नहीं, तैरना सीख गया!
-
 =====
 Pinku (normal): Neelu भाई, तूने पंखा अपनी तरफ क्यों कर लिया?
 Neelu (happy, zoom): हवा चाहिए!
 Pinku (funny, shake): बाकी लोगों को?
 Neelu (slap, zoom_shake): वो लोग भी हवा में रह रहे हैं!
-
 =====
 Pinku (normal): अरे Neelu, तूने छत पर चारपाई क्यों डाल दी?
 Neelu (happy, zoom): सितारे देखने!
 Pinku (funny, shake): नींद नहीं आएगी?
 Neelu (slap, zoom_shake): सितारे देखकर सो जाऊँगा!
-
 =====
 Pinku (normal): Neelu भाई, तूने सब्जी में पानी क्यों डाल दिया?
 Neelu (shock, zoom): सब्जी बढ़ानी थी!
 Pinku (funny, shake): अब सब्जी कहाँ है?
 Neelu (slap, zoom_shake): पानी में खोज रहा हूँ!
-
 =====
 Pinku (normal): अरे Neelu, तूने दूध में चायपत्ती क्यों डाल दी?
 Neelu (shock, zoom): चाय बनाने!
 Pinku (funny, shake): चीनी कहाँ है?
 Neelu (slap, zoom_shake): वो तो मैंने चम्मच से ही खा ली!
-
 =====
 Pinku (normal): Neelu भाई, तूने नया तकिया क्यों खरीदा?
 Neelu (happy, zoom): अच्छी नींद के लिए!
 Pinku (funny, shake): नींद आई?
 Neelu (slap, zoom_shake): तकिया आया, नींद अभी रास्ते में है!
-
 =====
 Pinku (normal): अरे Neelu, तूने घर की चाबी क्यों खो दी?
 Neelu (shock, zoom): ढूँढ रहा हूँ!
 Pinku (funny, shake): कहाँ?
 Neelu (slap, zoom_shake): जेब में… लेकिन जेब कौन सी है, वही नहीं पता!
-
 =====
 Pinku (normal): Neelu भाई, तूने दुकान से एक ही समोसा क्यों लिया?
 Neelu (happy, zoom): पैसे कम थे!
 Pinku (funny, shake): फिर आधा क्यों खाया?
 Neelu (slap, zoom_shake): बाकी आधा कल की याद के लिए बचा लिया!
-
 =====
 Pinku (normal): अरे Neelu, तूने नया टीवी क्यों लिया?
 Neelu (happy, zoom): पढ़ाई देखने के लिए!
 Pinku (funny, shake): क्या देखता है?
 Neelu (slap, zoom_shake): पढ़ाई का विज्ञापन!
-
 =====
 Pinku (normal): Neelu भाई, तूने खाना जल्दी क्यों खा लिया?
 Neelu (happy, zoom): भूख लगी थी!
 Pinku (funny, shake): इतना जल्दी?
 Neelu (slap, zoom_shake): खाना खत्म होने का डर था!
-
 =====
 Pinku (normal): अरे Neelu, तूने अपनी फोटो पर चश्मा क्यों लगा दिया?
 Neelu (happy, zoom): बुद्धिमान दिखने के लिए!
 Pinku (funny, shake): फायदा हुआ?
 Neelu (slap, zoom_shake): हाँ, लोग फोटो देखकर दूर भागने लगे!
-
 =====
 Pinku (normal): Neelu भाई, तूने पढ़ाई छोड़कर क्या सीखा?
 Neelu (happy, zoom): जिंदगी का ज्ञान!
 Pinku (funny, shake): क्या?
 Neelu (slap, zoom_shake): पढ़ाई छोड़ना आसान है, वापस शुरू करना मुश्किल!
-
 =====
 Pinku (normal): अरे Neelu, तूने दुकान पर बोर्ड क्यों लगाया “बंद है”?
 Neelu (shock, zoom): ग्राहक नहीं आ रहे थे!
 Pinku (funny, shake): फिर ग्राहक आए?
 Neelu (slap, zoom_shake): आए थे, बोर्ड देखकर वापस चले गए!
-
 =====
 Pinku (normal): Neelu भाई, तूने नौकरी छोड़ दी?
 Neelu (shock, zoom): हाँ!
 Pinku (funny, shake): क्यों?
 Neelu (slap, zoom_shake): बॉस ने काम करने को बोल दिया था!
-
 =====
 Pinku (normal): अरे Neelu, तूने पढ़ाई में टॉप किया?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): कितने नंबर?
 Neelu (slap, zoom_shake): क्लास से बाहर निकलने में!
-
 =====
 Pinku (normal): Neelu भाई, तू इतना आत्मविश्वास में कैसे रहता है?
 Neelu (happy, zoom): मुझे खुद पर भरोसा है!
 Pinku (funny, shake): और ज्ञान?
 Neelu (slap, zoom_shake): वो अभी डाउनलोड हो रहा है!
-
 =====
 Pinku (normal): अरे Neelu, तूने किताब क्यों खरीदी?
 Neelu (happy, zoom): पढ़ने के लिए!
 Pinku (funny, shake): पढ़ी?
 Neelu (slap, zoom_shake): नहीं, पहले किताब को नया रहने दे रहा हूँ!
-
 =====
 Pinku (normal): Neelu भाई, तूने परीक्षा में नकल क्यों नहीं की?
 Neelu (shock, zoom): मौका ही नहीं मिला!
 Pinku (funny, shake): क्यों?
 Neelu (slap, zoom_shake): आगे वाले ने भी खाली पेपर दिया था!
-
 =====
 Pinku (normal): अरे Neelu, तूने पढ़ाई का टाइमटेबल बनाया?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): उसमें पढ़ाई कितने घंटे है?
 Neelu (slap, zoom_shake): टाइमटेबल बनाने में ही सारे घंटे लग गए!
-
 =====
 Pinku (normal): Neelu भाई, भविष्य में क्या बनना है?
 Neelu (happy, zoom): अमीर आदमी!
 Pinku (funny, shake): कैसे?
 Neelu (slap, zoom_shake): ये नहीं पता, लेकिन गरीब नहीं बनना!
-
 =====
 Pinku (normal): अरे Neelu, तेरी सबसे बड़ी कमजोरी क्या है?
 Neelu (shock, zoom): आलस!
 Pinku (funny, shake): उसे दूर क्यों नहीं करता?
 Neelu (slap, zoom_shake): मेहनत करने में आलस आता है!
-
 =====
 Pinku (normal): Neelu भाई, तू सुबह उठकर सबसे पहले क्या करता है?
 Neelu (happy, zoom): मोबाइल देखता हूँ!
 Pinku (funny, shake): फिर?
 Neelu (slap, zoom_shake): फिर सो जाता हूँ, सुबह खत्म!
-
 =====
 Pinku (normal): अरे Neelu, तूने आज किताब खोली?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): क्या पढ़ा?
 Neelu (slap, zoom_shake): किताब का पहला पन्ना… आगे कल पढ़ूँगा!
-
 =====
 Pinku (normal): Neelu भाई, तेरी पढ़ाई कैसी चल रही है?
 Neelu (happy, zoom): बहुत तेज!
 Pinku (funny, shake): कितनी तेज?
 Neelu (slap, zoom_shake): किताब खोलते ही बंद हो जाती है!
-
 =====
 Pinku (normal): अरे Neelu, तूने मेहनत क्यों छोड़ दी?
 Neelu (shock, zoom): थक गया था!
 Pinku (funny, shake): कब से मेहनत कर रहा था?
 Neelu (slap, zoom_shake): शुरू करने की सोच रहा था तभी!
-
 =====
 Pinku (normal): Neelu भाई, तूने मोटिवेशनल वीडियो क्यों देखा?
 Neelu (happy, zoom): जिंदगी बदलने के लिए!
 Pinku (funny, shake): जिंदगी बदली?
 Neelu (slap, zoom_shake): वीडियो खत्म हुआ, मैं फिर सो गया!
-
 =====
 Pinku (normal): अरे Neelu, तूने लक्ष्य क्या बनाया है?
 Neelu (happy, zoom): बहुत बड़ा लक्ष्य!
 Pinku (funny, shake): क्या?
 Neelu (slap, zoom_shake): आज बिना आलस किए कल से मेहनत शुरू करना!
-
 =====
 Pinku (normal): Neelu भाई, तू पढ़ाई से क्यों भागता है?
 Neelu (shock, zoom): पढ़ाई मुझे पसंद नहीं!
 Pinku (funny, shake): फिर क्या पसंद है?
 Neelu (slap, zoom_shake): पढ़ाई से बचने के बहाने!
-
 =====
 Pinku (normal): अरे Neelu, तू बड़ा आदमी कब बनेगा?
 Neelu (happy, zoom): बहुत जल्दी!
 Pinku (funny, shake): तैयारी क्या है?
 Neelu (slap, zoom_shake): अभी तक तो सपना ही तैयार है!
-
 =====
 Pinku (normal): Neelu भाई, तूने आज क्या नया सीखा?
 Neelu (happy, zoom): बहुत जरूरी चीज!
 Pinku (funny, shake): क्या?
 Neelu (slap, zoom_shake): काम टालने का नया तरीका!
-
 =====
 Pinku (normal): अरे Neelu, तूने पढ़ाई छोड़कर पछतावा किया?
 Neelu (shock, zoom): बिल्कुल नहीं!
