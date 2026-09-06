@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, सुना है तू बिजनेस करेगा?
-Neelu (happy, zoom): हाँ भाई, बहुत बड़ा!
-Pinku (funny, shake): पैसा कितना है?
-Neelu (slap, zoom_shake): पैसा नहीं है, लेकिन बिजनेस का सपना पूरा है!
-=====
 Pinku (normal): अरे Neelu, परीक्षा कैसी गई?
 Neelu (shock, zoom): बहुत बढ़िया!
 Pinku (funny, shake): कितने नंबर आए?
