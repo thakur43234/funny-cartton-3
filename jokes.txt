@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तूने किताब क्यों फाड़ दी?
-Neelu (shock, zoom): उसमें सवाल बहुत कठिन थे!
-Pinku (funny, shake): फिर जवाब कैसे देगा?
-Neelu (slap, zoom_shake): सवाल ही नहीं रहेगा तो जवाब भी नहीं देना पड़ेगा!
-=====
 Pinku (normal): Neelu भाई, सुना है तू बिजनेस करेगा?
 Neelu (happy, zoom): हाँ भाई, बहुत बड़ा!
 Pinku (funny, shake): पैसा कितना है?
