@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तू पढ़ता कब है?
-Neelu (happy, zoom): रात को!
-Pinku (funny, shake): कितने बजे?
-Neelu (slap, zoom_shake): जब किताब खोलता हूँ, तभी नींद आ जाती है!
-=====
 Pinku (normal): अरे Neelu, तू डॉक्टर बनेगा?
 Neelu (happy, zoom): हाँ भाई!
 Pinku (funny, shake): पढ़ाई कहाँ तक हुई?
