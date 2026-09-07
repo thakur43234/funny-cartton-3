@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तू डॉक्टर बनेगा?
-Neelu (happy, zoom): हाँ भाई!
-Pinku (funny, shake): पढ़ाई कहाँ तक हुई?
-Neelu (slap, zoom_shake): बीमारी देखकर दवा बताने तक!
-=====
 Pinku (normal): Neelu भाई, तू इंजीनियर क्यों बनना चाहता है?
 Neelu (happy, zoom): बड़ी कमाई होती है!
 Pinku (funny, shake): इंजीनियरिंग आती है?
