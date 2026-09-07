@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, परीक्षा कैसी गई?
-Neelu (shock, zoom): बहुत बढ़िया!
-Pinku (funny, shake): कितने नंबर आए?
-Neelu (slap, zoom_shake): नंबर नहीं आए, लेकिन पेपर घर वापस आ गया!
-=====
 Pinku (normal): Neelu भाई, तू पढ़ता कब है?
 Neelu (happy, zoom): रात को!
 Pinku (funny, shake): कितने बजे?
