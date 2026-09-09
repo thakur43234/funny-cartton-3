@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तेरे पास घड़ी है?
-Neelu (shock, zoom): हाँ!
-Pinku (funny, shake): टाइम क्या हुआ?
-Neelu (slap, zoom_shake): घड़ी है भाई, बैटरी नहीं है!
-=====
 Pinku (normal): Neelu भाई, तूने नया जूता क्यों खरीदा?
 Neelu (happy, zoom): दौड़ने के लिए!
 Pinku (funny, shake): दौड़ा?
