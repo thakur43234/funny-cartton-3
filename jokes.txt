@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तू सुबह-सुबह अखबार क्यों पढ़ता है?
-Neelu (happy, zoom): ज्ञान बढ़ाने के लिए!
-Pinku (funny, shake): क्या ज्ञान मिला?
-Neelu (slap, zoom_shake): आज दूध कितने का है, इतना तो पता चल गया!
-=====
 Pinku (normal): अरे Neelu, तेरे पास घड़ी है?
 Neelu (shock, zoom): हाँ!
 Pinku (funny, shake): टाइम क्या हुआ?
