@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने नया जूता क्यों खरीदा?
-Neelu (happy, zoom): दौड़ने के लिए!
-Pinku (funny, shake): दौड़ा?
-Neelu (slap, zoom_shake): नहीं, जूता नया है अभी, गंदा हो जाएगा!
-=====
 Pinku (normal): अरे Neelu, तू इतना मोटा कैसे हो गया?
 Neelu (shock, zoom): मेहनत से!
 Pinku (funny, shake): कैसी मेहनत?
