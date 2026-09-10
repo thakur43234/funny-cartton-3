@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तू इतना मोटा कैसे हो गया?
-Neelu (shock, zoom): मेहनत से!
-Pinku (funny, shake): कैसी मेहनत?
-Neelu (slap, zoom_shake): रोज खाना देखकर प्लेट तक पहुँचना!
-=====
 Pinku (normal): Neelu भाई, तूने चश्मा क्यों लगाया?
 Neelu (happy, zoom): स्मार्ट दिखने के लिए!
 Pinku (funny, shake): नंबर आया है?
