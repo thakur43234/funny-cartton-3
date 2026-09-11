@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने कंप्यूटर क्यों खरीदा?
-Neelu (happy, zoom): ऑनलाइन काम करूँगा!
-Pinku (funny, shake): काम आता है?
-Neelu (slap, zoom_shake): कंप्यूटर चलाना आता है, काम अभी सीखूँगा!
-=====
 Pinku (normal): अरे Neelu, तूने खाना क्यों नहीं खाया?
 Neelu (shock, zoom): डाइट कर रहा हूँ!
 Pinku (funny, shake): सामने मिठाई क्यों है?
