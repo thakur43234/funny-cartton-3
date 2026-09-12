@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तू रोज आईना क्यों देखता है?
-Neelu (happy, zoom): मोटिवेशन के लिए!
-Pinku (funny, shake): क्या मोटिवेशन मिलता है?
-Neelu (slap, zoom_shake): लगता है कोई तो मेरे जैसा सुंदर है!
-=====
 Pinku (normal): Neelu भाई, तूने नया फोन क्यों लिया?
 Neelu (happy, zoom): पढ़ाई के लिए!
 Pinku (funny, shake): पढ़ाई की?
