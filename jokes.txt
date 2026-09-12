@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तू योगा क्यों कर रहा है?
-Neelu (happy, zoom): तनाव कम करने!
-Pinku (funny, shake): तनाव कम हुआ?
-Neelu (slap, zoom_shake): योगा देखकर ही बढ़ गया!
-=====
 Pinku (normal): अरे Neelu, तू रोज आईना क्यों देखता है?
 Neelu (happy, zoom): मोटिवेशन के लिए!
 Pinku (funny, shake): क्या मोटिवेशन मिलता है?
