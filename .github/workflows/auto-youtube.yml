@@ -1,12 +1,11 @@
-name: Auto YouTube Cartoon Generator (3 Times a Day)
+name: Auto YouTube Cartoon Generator (2 Times a Day)
 
 on:
   schedule:
     # ⏰ UTC Timing. Indian Time is UTC + 5:30
-    # 02:30 UTC = 08:00 AM IST
-    # 08:30 UTC = 02:00 PM IST
-    # 13:30 UTC = 07:00 PM IST
-    - cron: '30 2,8,13 * * *'
+    # 02:30 UTC = 08:00 AM IST (सुबह)
+    # 13:30 UTC = 07:00 PM IST (शाम)
+    - cron: '30 2,13 * * *'
   workflow_dispatch:  # मैन्युअली रन करने के लिए
 
 jobs:
