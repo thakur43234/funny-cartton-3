@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने नया फोन क्यों लिया?
-Neelu (happy, zoom): पढ़ाई के लिए!
-Pinku (funny, shake): पढ़ाई की?
-Neelu (slap, zoom_shake): नहीं, फोन की मेमोरी भर दी!
-=====
 Pinku (normal): अरे Neelu, तेरी बाइक कहाँ है?
 Neelu (shock, zoom): बेच दी!
 Pinku (funny, shake): क्यों?
