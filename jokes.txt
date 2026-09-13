@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने गाना सीख लिया?
-Neelu (happy, zoom): हाँ!
-Pinku (funny, shake): सुनाओ!
-Neelu (slap, zoom_shake): पड़ोसी सो रहे हैं, उन्हें भी मौका दे रहा हूँ!
-=====
 Pinku (normal): अरे Neelu, तू क्रिकेट क्यों नहीं खेलता?
 Neelu (shock, zoom): बैट नहीं है!
 Pinku (funny, shake): गेंद तो है?
