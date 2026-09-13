@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तू इतना देर से क्यों सोता है?
-Neelu (shock, zoom): भविष्य के बारे में सोचता हूँ!
-Pinku (funny, shake): क्या सोचा?
-Neelu (slap, zoom_shake): सुबह जल्दी उठना है या नहीं!
-=====
 Pinku (normal): Neelu भाई, तूने गाना सीख लिया?
 Neelu (happy, zoom): हाँ!
 Pinku (funny, shake): सुनाओ!
