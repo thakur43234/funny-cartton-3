@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तू क्रिकेट क्यों नहीं खेलता?
-Neelu (shock, zoom): बैट नहीं है!
-Pinku (funny, shake): गेंद तो है?
-Neelu (slap, zoom_shake): गेंद से बैट थोड़ी चलेगा!
-=====
 Pinku (normal): Neelu भाई, तूने अंग्रेजी की किताब क्यों छुपाई?
 Neelu (shock, zoom): ताकि कोई पढ़ने को न बोले!
 Pinku (funny, shake): तू खुद नहीं पढ़ता?
