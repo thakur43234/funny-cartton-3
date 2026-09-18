@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने रेडियो क्यों खरीदा?
-Neelu (happy, zoom): ज्ञान के लिए!
-Pinku (funny, shake): क्या सीखा?
-Neelu (slap, zoom_shake): रेडियो बंद करने का बटन कहाँ है!
-=====
 Pinku (normal): अरे Neelu, तूने छाता क्यों लिया?
 Neelu (shock, zoom): बारिश होने वाली है!
 Pinku (funny, shake): आसमान तो साफ है!
