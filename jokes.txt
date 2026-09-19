@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तू इतना तेज कैसे दौड़ता है?
-Neelu (happy, zoom): रोज प्रैक्टिस करता हूँ!
-Pinku (funny, shake): कहाँ?
-Neelu (slap, zoom_shake): जब मम्मी चप्पल लेकर पीछे भागती हैं!
-=====
 Pinku (normal): अरे Neelu, तूने किताब पर कवर क्यों चढ़ाया?
 Neelu (happy, zoom): किताब बचाने के लिए!
 Pinku (funny, shake): पढ़ेगा कब?
