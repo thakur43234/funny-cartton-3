@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने नया चश्मा क्यों लिया?
-Neelu (happy, zoom): दूर की चीज देखने के लिए!
-Pinku (funny, shake): दूर क्या दिखा?
-Neelu (slap, zoom_shake): अपना भविष्य… धुंधला!
-=====
 Pinku (normal): अरे Neelu, तूने क्रिकेट में बैट क्यों नहीं उठाया?
 Neelu (shock, zoom): बहुत भारी था!
 Pinku (funny, shake): फिर क्या किया?
