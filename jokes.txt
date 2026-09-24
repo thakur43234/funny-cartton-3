@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तूने बैंक में खाता क्यों खोला?
-Neelu (happy, zoom): पैसे बचाने!
-Pinku (funny, shake): कितने पैसे हैं?
-Neelu (slap, zoom_shake): खाता खुला है, पैसा अभी रास्ते में है!
-=====
 Pinku (normal): Neelu भाई, तूने नया चश्मा क्यों लिया?
 Neelu (happy, zoom): दूर की चीज देखने के लिए!
 Pinku (funny, shake): दूर क्या दिखा?
