@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने आज इतनी मिठाई क्यों खाई?
-Neelu (happy, zoom): खुश था!
-Pinku (funny, shake): किस बात की खुशी?
-Neelu (slap, zoom_shake): कोई वजह नहीं मिली, मिठाई खा ली!
-=====
 Pinku (normal): अरे Neelu, तूने अपनी फोटो क्यों नहीं खिंचवाई?
 Neelu (shock, zoom): कैमरा खराब था!
 Pinku (funny, shake): मोबाइल तो ठीक था!
