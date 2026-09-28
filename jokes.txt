@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तूने परीक्षा में खाली पेपर क्यों दिया?
-Neelu (shock, zoom): ज्ञान अंदर था!
-Pinku (funny, shake): बाहर क्यों नहीं आया?
-Neelu (slap, zoom_shake): शर्मीला ज्ञान है भाई!
-=====
 Pinku (normal): Neelu भाई, तूने आज इतना खर्चा क्यों किया?
 Neelu (happy, zoom): निवेश किया है!
 Pinku (funny, shake): कहाँ?
