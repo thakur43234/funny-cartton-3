@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने आज इतना खर्चा क्यों किया?
-Neelu (happy, zoom): निवेश किया है!
-Pinku (funny, shake): कहाँ?
-Neelu (slap, zoom_shake): समोसे में… पेट का भविष्य सुरक्षित है!
-=====
 Pinku (normal): अरे Neelu, तूने पंखा क्यों बंद किया?
 Neelu (shock, zoom): बिजली बचा रहा हूँ!
 Pinku (funny, shake): गर्मी नहीं लग रही?
