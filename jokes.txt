@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तूने खाना जल्दी क्यों खा लिया?
-Neelu (happy, zoom): भूख लगी थी!
-Pinku (funny, shake): इतना जल्दी?
-Neelu (slap, zoom_shake): खाना खत्म होने का डर था!
-=====
 Pinku (normal): अरे Neelu, तूने अपनी फोटो पर चश्मा क्यों लगा दिया?
 Neelu (happy, zoom): बुद्धिमान दिखने के लिए!
 Pinku (funny, shake): फायदा हुआ?
