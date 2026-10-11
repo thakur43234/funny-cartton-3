@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तूने पढ़ाई का टाइमटेबल बनाया?
-Neelu (happy, zoom): हाँ भाई!
-Pinku (funny, shake): उसमें पढ़ाई कितने घंटे है?
-Neelu (slap, zoom_shake): टाइमटेबल बनाने में ही सारे घंटे लग गए!
-=====
 Pinku (normal): Neelu भाई, भविष्य में क्या बनना है?
 Neelu (happy, zoom): अमीर आदमी!
 Pinku (funny, shake): कैसे?
