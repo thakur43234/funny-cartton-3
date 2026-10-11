@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, भविष्य में क्या बनना है?
-Neelu (happy, zoom): अमीर आदमी!
-Pinku (funny, shake): कैसे?
-Neelu (slap, zoom_shake): ये नहीं पता, लेकिन गरीब नहीं बनना!
-=====
 Pinku (normal): अरे Neelu, तेरी सबसे बड़ी कमजोरी क्या है?
 Neelu (shock, zoom): आलस!
 Pinku (funny, shake): उसे दूर क्यों नहीं करता?
