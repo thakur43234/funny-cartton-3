@@ -1,8 +1,3 @@
-Pinku (normal): अरे Neelu, तूने लक्ष्य क्या बनाया है?
-Neelu (happy, zoom): बहुत बड़ा लक्ष्य!
-Pinku (funny, shake): क्या?
-Neelu (slap, zoom_shake): आज बिना आलस किए कल से मेहनत शुरू करना!
-=====
 Pinku (normal): Neelu भाई, तू पढ़ाई से क्यों भागता है?
 Neelu (shock, zoom): पढ़ाई मुझे पसंद नहीं!
 Pinku (funny, shake): फिर क्या पसंद है?
