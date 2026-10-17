@@ -1,8 +1,3 @@
-Pinku (normal): Neelu भाई, तू पढ़ाई से क्यों भागता है?
-Neelu (shock, zoom): पढ़ाई मुझे पसंद नहीं!
-Pinku (funny, shake): फिर क्या पसंद है?
-Neelu (slap, zoom_shake): पढ़ाई से बचने के बहाने!
-=====
 Pinku (normal): अरे Neelu, तू बड़ा आदमी कब बनेगा?
 Neelu (happy, zoom): बहुत जल्दी!
 Pinku (funny, shake): तैयारी क्या है?
